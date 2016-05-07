@@ -1,0 +1,28 @@
+name: stevehurd
+favicon: null
+layout_spectrum: 0.4080400285311043
+typography_spectrum: 0.8974486466031522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0578428041189909
+  lightness: 0.9364187750034034
+  saturation: 0.6076676398515701
+  rhythmicContrast: 0.4758797639515251
+purpose: []
